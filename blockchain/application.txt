@@ -1,0 +1,3 @@
+############### Smart contracts ################
+A logic build in block chain which is whenever an event happens it triggers another event automatically
+It can bring peer to peer economy by removing intermediaries in between.
